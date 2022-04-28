@@ -1,0 +1,48 @@
+RSS: false
+SEOTitle: DataProject | Carlos Guevara Blog
+anchorjs: true
+baseurl: ""
+chrome-tab-theme-color: "#000000"
+description: DataEngineer with strong love to learn new things and achive the best
+  way to create things
+email: huxpro@gmail.com
+exclude:
+  - less
+  - node_modules
+  - Gruntfile.js
+  - package.json
+  - README.md
+  - README.zh.md
+featured-condition-size: 1
+featured-tags: true
+future: true
+ga_domain: huangxuan.me
+ga_track_id: UA-49627206-1
+github_username: carloseguevara
+header-img: img/home-bg.jpg
+highlighter: rouge
+keyword: 'DataEngineer, DataWareHouse'
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+      start_line: 1
+    span:
+      line_numbers: false
+linkedin_username: carloseguevara
+markdown: kramdown
+netease_comment: false
+page-mathjax: false
+paginate: 10
+permalink: pretty
+plugins:
+  - jekyll-paginate
+service-worker: true
+sidebar: true
+sidebar-about-description: DataEngineer with strong love to learn new things and achive
+  the best way to create things
+sidebar-avatar: https://github.com/carloseguevara.png
+title: DataProject
+twitter_username: carloseguevara
+url: https://huangxuan.me
