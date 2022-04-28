@@ -10,7 +10,7 @@ tags:
   - Lua
 ---
 
-You could see all the codes using in this post in [this repository](https://github.com/carloseguevara/nvim_conf#madewithlua).
+You could see all the codes using in this post in [this repository](https://github.com/carloseguevara/nvim_conf).
 
 ## Read all files into a folder
 
