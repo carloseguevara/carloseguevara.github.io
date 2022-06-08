@@ -1,9 +1,9 @@
 ---
 title: "NeoVim - Modular NeoVim configuration with Lua"
 subtitle: "Improve your NeoVim configuration folder"
+header-img: "img/neovim/neovim-desktop.jpg"
 layout: post
 author: "Carlos Guevara"
-header-style: text
 tags:
   - Vim
   - NeoVim
