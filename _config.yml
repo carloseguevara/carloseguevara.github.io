@@ -16,12 +16,12 @@ exclude:
 featured-condition-size: 1
 featured-tags: true
 future: true
-ga_domain: huangxuan.me
-ga_track_id: UA-49627206-1
+ga_domain: https://carloseguevara.github.io
+ga_track_id: G-CTE98NHN9B
 github_username: carloseguevara
 header-img: img/home-bg.jpg
 highlighter: rouge
-keyword: 'DataEngineer, DataWareHouse'
+keyword: 'DataEngineer, DataWareHouse, Python, Scala'
 kramdown:
   input: GFM
   syntax_highlighter_opts:
@@ -45,4 +45,4 @@ sidebar-about-description: DataEngineer with strong love to learn new things and
 sidebar-avatar: https://github.com/carloseguevara.png
 title: DataProject
 twitter_username: carloseguevara
-url: https://huangxuan.me
+url: https://carloseguevara.github.io
