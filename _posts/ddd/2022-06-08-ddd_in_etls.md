@@ -1,6 +1,5 @@
 ---
-title: "DDD - Apply Domain Drive Development in ETL"
-subtitle: "Improve your NeoVim configuration folder"
+title: "Apply Domain Drive Development in ETL"
 layout: post
 author: "Carlos Guevara"
 header-style: text
